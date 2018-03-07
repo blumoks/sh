@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="KeyManagmentClass" Collapsed="true">
+    <Position X="2.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABIIkAAAAAEAAARIAAQAAAAAAAAAAAABAAAJAAAAAA=</HashCode>
+      <FileName>Include\KeyManagment.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseClass" Collapsed="true">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JCEAA4AEEAAACACAAIAIBEAIAAAAAABAAAGAQAAEIgA=</HashCode>
+      <FileName>C:\Users\Krasavin-PC\Desktop\lib_SHIPKA\ShipkaPkcs11Projects\Include\low_layer_func.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WorkWithKeysClass" Collapsed="true">
+    <Position X="2.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAgEAUcAgAAAAAAAAQAAEOgAACAASgAAAE=</HashCode>
+      <FileName>C:\Users\Krasavin-PC\Desktop\lib_SHIPKA\ShipkaPkcs11Projects\ShipkaKeysAndCryptOperations\Include\ShWorkWithKeys.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="_MY_DEVICE_INFO" Collapsed="true">
+    <Position X="11.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAQAgAA=</HashCode>
+      <FileName>C:\Users\Krasavin-PC\Desktop\lib_SHIPKA\ShipkaPkcs11Projects\Include\defines_and_constants.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="_MY_PIN_PARAMS" Collapsed="true">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Krasavin-PC\Desktop\lib_SHIPKA\ShipkaPkcs11Projects\Include\defines_and_constants.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="_MY_KEY_TEMPLATE_INFO" Collapsed="true">
+    <Position X="7.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Krasavin-PC\Desktop\lib_SHIPKA\ShipkaPkcs11Projects\Include\defines_and_constants.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="_MY_KEY_INFO" Collapsed="true">
+    <Position X="3.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAIQAAAACAAAQAAAAAAwAECIAAAAAAAAAYAE=</HashCode>
+      <FileName>C:\Users\Krasavin-PC\Desktop\lib_SHIPKA\ShipkaPkcs11Projects\Include\defines_and_constants.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="KM_FUNCTION_LIST" Collapsed="true">
+    <Position X="6.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Include\KeyManagmentLib.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="MY_DEVICE_INFO" Collapsed="true">
+    <Position X="12.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Krasavin-PC\Desktop\lib_SHIPKA\ShipkaPkcs11Projects\Include\defines_and_constants.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="MY_DEVICE_INFO_PTR" Collapsed="true">
+    <Position X="11.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Krasavin-PC\Desktop\lib_SHIPKA\ShipkaPkcs11Projects\Include\defines_and_constants.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="MY_PIN_PARAMS" Collapsed="true">
+    <Position X="12.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Krasavin-PC\Desktop\lib_SHIPKA\ShipkaPkcs11Projects\Include\defines_and_constants.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="MY_PIN_PARAMS_PTR" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Krasavin-PC\Desktop\lib_SHIPKA\ShipkaPkcs11Projects\Include\defines_and_constants.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="MY_KEY_TEMPLATE_INFO" Collapsed="true">
+    <Position X="9.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Krasavin-PC\Desktop\lib_SHIPKA\ShipkaPkcs11Projects\Include\defines_and_constants.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="MY_KEY_TEMPLATE_INFO_PTR" Collapsed="true">
+    <Position X="7.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Krasavin-PC\Desktop\lib_SHIPKA\ShipkaPkcs11Projects\Include\defines_and_constants.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="MY_KEY_INFO" Collapsed="true">
+    <Position X="0.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Krasavin-PC\Desktop\lib_SHIPKA\ShipkaPkcs11Projects\Include\defines_and_constants.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="MY_KEY_INFO_PTR" Collapsed="true">
+    <Position X="3.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Krasavin-PC\Desktop\lib_SHIPKA\ShipkaPkcs11Projects\Include\defines_and_constants.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="KM_FUNCTION_LIST_PTR" Collapsed="true">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Include\KeyManagmentLibt.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="KM_FUNCTION_LIST_PTR_PTR" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Include\KeyManagmentLibt.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
